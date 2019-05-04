@@ -55,8 +55,8 @@ p.intro {
 	margin: 12px 0 0;
 	line-height: 24px;
 }
-a {
-	color: #8eb640;
+/*a {
+	color: #8eb640;    weird green*/
 }
 a:hover, a:focus {
 	text-decoration: none;
